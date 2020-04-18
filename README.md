@@ -17,4 +17,9 @@ This function simply just run a select query and fatch all the information from 
 and print the record
 
 # funtion to update a user address
-In this function 
+In this function i am using set query to update address, we can update whole record or any other record by username.
+i am taking input for username and address from user
+
+# function to delete a user
+In my delete function i am using delete query which will delete record according to username since that is our unique key
+i am taking imput for username from user 
